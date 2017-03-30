@@ -1,0 +1,32 @@
+
+img.img-responsive {
+   margin: auto;
+   display: block;
+   z-index: 10;
+   position: relative;
+   bottom: 490px;
+}
+
+img.header-image
+{
+z-index: 9;
+}
+.bg
+{
+   z-index: -20;
+}
+/*.navbar-nav>li>a {*/
+    /*padding-top: 39px;*/
+    /*padding-bottom: 17px;*/
+    /*line-height: 23px;*/
+/*z-index: 12;*/
+}
+
+.drink
+{
+   float: right;
+}
+.dr
+{
+   float: left;
+}
